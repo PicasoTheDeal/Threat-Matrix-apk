@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#0F0F0F</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+
+        <item name="postSplashScreenTheme">@style/Theme.ThreatMatrix</item>
+    </style>
+
+    <style name="Theme.ThreatMatrix" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+</resources>
