@@ -10,7 +10,7 @@ Real-time intelligence interface for tracking threat logs, CVEs, and infrastruct
 ## How to Install (Sideloading)
 I skipped the Google Play Store because I'm not paying a $25 upfront fee just to host a free, open-source project. That means you'll need to grab the APK directly from the source here.
 
-1. Head over to the [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases) page and download the latest `app-release.apk`.
+1. Head over to the [Releases](https://github.com/PicasoTheDeal/Threat-Matrix-apk/releases) page and download the latest `app-release.apk`.
 2. Tap the file to install it.
 3. Your phone will probably yell at you about installing from "Unknown Sources." Just tap **Settings > Allow from this source** and you're good to go.
 
